@@ -4,17 +4,21 @@
 // 9012 -> 12
 
 System.Console.WriteLine("Введите число: ");
-//int num = Convert.ToInt32(Console.ReadLine());
-string numInStr = Console.ReadLine();
-int ArrLenght = numInStr.Length;
-int DoSumNum(string numInStr)
+int num = Convert.ToInt32(Console.ReadLine());
+string numLenghtStr = Convert.ToString(num);
+
+int numLenght = numLenghtStr.Length;
+
+int DoSumNum(int num, int numLenght)
 {
-    int ArrLenght = numInStr.Length;
-    string[] arrNumStr = { };
-    for (int i = 0; i < ArrLenght; i++)
+    int sum = 0;
+    for (int i = 0; i < numLenght; i++)
     {
-        arrNumStr[i] = numInStr[i];
+        sum = sum + num % 10;
+        num = num / 10;
         
     }
-    return 
+    return sum;
 }
+
+Console.Write(DoSumNum(num, numLenght));
