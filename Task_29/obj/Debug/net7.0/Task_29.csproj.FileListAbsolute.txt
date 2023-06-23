@@ -1,0 +1,15 @@
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.csproj.AssemblyReference.cache
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.AssemblyInfoInputs.cache
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.AssemblyInfo.cs
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.csproj.CoreCompileInputs.cache
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\bin\Debug\net7.0\Task_29.exe
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\bin\Debug\net7.0\Task_29.deps.json
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\bin\Debug\net7.0\Task_29.runtimeconfig.json
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\bin\Debug\net7.0\Task_29.dll
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\bin\Debug\net7.0\Task_29.pdb
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.dll
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\refint\Task_29.dll
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.pdb
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\Task_29.genruntimeconfig.cache
+C:\Файлы Дани\GB\Семинары и домашка\Введение в С#\Семирар 4.1\Task_29\obj\Debug\net7.0\ref\Task_29.dll
